@@ -62,10 +62,6 @@ Exemplo:
 
 Durante o desenvolvimento deste projeto foram utilizados conceitos importantes da linguagem Java, como criação de threads, implementação da interface `Runnable`, manipulação de horários com `LocalTime`, tratamento de exceções específicas e reprodução de áudio utilizando a Java Sound API.
 
-## Demonstração
-
-Adicione aqui um print ou GIF mostrando o programa em execução.
-
 ## Autor
 
 Yan Gomes
